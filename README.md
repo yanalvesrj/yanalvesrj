@@ -15,6 +15,6 @@ Viso aprender e dominar Python e Javascript!
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-  <p> Me encontre em: </p>
-- <p> https://www.instagram.com/yan.alves.rj/ </p>
-- https://www.linkedin.com/in/yan-alves-5788b621a/
+ 
+- <p> https://www.instagram.com/yan.alves.rj/ 
+- <p> https://www.linkedin.com/in/yan-alves-5788b621a/
