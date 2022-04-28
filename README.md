@@ -1,8 +1,7 @@
 ### Saudações! 👋
 Estou aqui para aprender! </br>
-Futuro desenvolvedor Web!
+Futuro desenvolvedor Web! </br>
 Trabalho atualmente em meu projeto pessoal que inclui as linguagens HTML, CSS e Javascript.
-Viso aprender e dominar Python e Javascript!
 
 <div align="center">
   <a href="https://github.com/yanalvesrj">
