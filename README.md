@@ -1,5 +1,5 @@
 ### Saudações! 👋
-Estou aqui para aprender!
+Estou aqui para aprender! </br>
 Futuro desenvolvedor Web!
 Trabalho atualmente em meu projeto pessoal que inclui as linguagens HTML, CSS e Javascript.
 Viso aprender e dominar Python e Javascript!
