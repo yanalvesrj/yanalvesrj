@@ -1,6 +1,7 @@
 ### Greetings! 👋
 
-- 🔭 I’m currently working on HTML & CSS
+-  I’m here, to learn!
+- 🔭 Currently working on my personal projects on HTML, CSS and Javascript
 - 🌱 I’m currently learning Python and Javascript
 
 <div align="center">
