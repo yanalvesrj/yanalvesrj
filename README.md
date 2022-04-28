@@ -17,4 +17,4 @@ Viso aprender e dominar Python e Javascript!
  </div>
  
   - <p> <a href="https://www.instagram.com/yan.alves.rj/ "> Instagram </a> 
-  - <p> <a href= " https://www.linkedin.com/in/yan-alves-5788b621a/"> Linkedin </a>
+  - <p> <a href="https://www.linkedin.com/in/yan-alves-5788b621a/"> Linkedin </a>
