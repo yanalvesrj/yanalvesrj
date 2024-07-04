@@ -1,7 +1,6 @@
 ### Saudações! 👋
 Estou aqui para aprender!</br>
-Desenvolvedor front-end </br>
-Trabalho atualmente em meu projeto pessoal que inclui as linguagens HTML, CSS e Javascript.
+
 
 <div align = "left">
   <a href="https://github.com/yanalvesrj">
